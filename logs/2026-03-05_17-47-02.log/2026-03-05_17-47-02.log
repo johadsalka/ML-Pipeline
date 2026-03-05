@@ -1,0 +1,8 @@
+[2026-03-05 17:47:04,007] - 23root - INFO - Entered the data ingestion method or component.
+[2026-03-05 17:47:04,010] - 26root - INFO - Read the dataset as dataframe.
+[2026-03-05 17:47:04,014] - 32root - INFO - Train test split initiated.
+[2026-03-05 17:47:04,020] - 40root - INFO - Ingestion of the data is completed.
+[2026-03-05 17:47:04,037] - 68root - INFO - Outliers capping completed for training dataset.
+[2026-03-05 17:47:04,043] - 73root - INFO - Outliers capping completed for testing dataset.
+[2026-03-05 17:47:04,043] - 24root - INFO - Data Transformation initiated.
+[2026-03-05 17:47:04,043] - 32root - INFO - Numerical columns standard scaling completed.
