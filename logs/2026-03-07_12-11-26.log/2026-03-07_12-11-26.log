@@ -1,0 +1,10 @@
+[2026-03-07 12:11:28,010] - 24root - INFO - Entered the data ingestion method or component.
+[2026-03-07 12:11:28,017] - 27root - INFO - Read the dataset as dataframe.
+[2026-03-07 12:11:28,024] - 33root - INFO - Train test split initiated.
+[2026-03-07 12:11:28,031] - 41root - INFO - Ingestion of the data is completed.
+[2026-03-07 12:11:28,080] - 68root - INFO - Outliers capping completed for training dataset.
+[2026-03-07 12:11:28,090] - 73root - INFO - Outliers capping completed for testing dataset.
+[2026-03-07 12:11:28,091] - 24root - INFO - Data Transformation initiated.
+[2026-03-07 12:11:28,091] - 32root - INFO - Numerical columns standard scaling completed.
+[2026-03-07 12:11:28,104] - 30root - INFO - Model Trainer initiated.
+[2026-03-07 12:16:01,771] - 72root - INFO - Best model found on both training and testing dataset is Logistic Regression with accuracy score: 0.013333333333333334

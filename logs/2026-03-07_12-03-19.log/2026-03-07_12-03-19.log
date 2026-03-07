@@ -1,0 +1,10 @@
+[2026-03-07 12:03:21,306] - 24root - INFO - Entered the data ingestion method or component.
+[2026-03-07 12:03:21,310] - 27root - INFO - Read the dataset as dataframe.
+[2026-03-07 12:03:21,318] - 33root - INFO - Train test split initiated.
+[2026-03-07 12:03:21,326] - 41root - INFO - Ingestion of the data is completed.
+[2026-03-07 12:03:21,364] - 68root - INFO - Outliers capping completed for training dataset.
+[2026-03-07 12:03:21,374] - 73root - INFO - Outliers capping completed for testing dataset.
+[2026-03-07 12:03:21,374] - 24root - INFO - Data Transformation initiated.
+[2026-03-07 12:03:21,374] - 32root - INFO - Numerical columns standard scaling completed.
+[2026-03-07 12:03:21,387] - 30root - INFO - Model Trainer initiated.
+[2026-03-07 12:04:13,080] - 71root - INFO - Best model found on both training and testing dataset is Random Forest with accuracy score: 0.03666666666666667
